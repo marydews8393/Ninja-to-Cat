@@ -1,0 +1,13 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.images img {
+    display: block;
+    margin: 10px;
+}
+.images {
+    width: fit-content;
+    text-align: center;
+}
